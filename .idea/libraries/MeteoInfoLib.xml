@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MeteoInfoLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/MeteoInfoLib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
